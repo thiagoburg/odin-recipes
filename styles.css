@@ -4,10 +4,13 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
     font-weight: bold;
-    text-align: left;
 }
 
 img {
     height: auto;
     width: auto;
+}
+
+.div {
+    text-align: center;
 }
